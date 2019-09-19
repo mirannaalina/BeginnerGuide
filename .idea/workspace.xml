@@ -2,29 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="857f223e-b603-4205-acce-b540aa1069d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BeginnerGuide.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap4/ConsDEMO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap4/DemoPwr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap4/FDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap4/Finalize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap4/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap4/Pwr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap5/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap5/Bubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap5/CLDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap5/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap5/QDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap5/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap5/ShowBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap5/ShowBitsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap5/Substr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap5/TwoD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/BlockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/ErrorMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/PassOb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/QDemmo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/QueueQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/SDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/SDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/StaticDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/MainShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/OrderOfConstruction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Shapes3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/TruckDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/TwoShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Test/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Test/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,29 +36,31 @@
     <session id="1393437647">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3657" />
+          <entry key="java" value="6614" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3657" />
+          <entry key="JAVA" value="6614" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="22" />
+          <entry key="java" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="22" />
+          <entry key="JAVA" value="46" />
         </counts>
       </usages-collector>
     </session>
@@ -67,95 +68,131 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap5/CLDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/TwoShape.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap5/ShowBitsDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap5/ShowBits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding>
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/QueueQ.java">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#61#62#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/QDemmo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#70#71#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/Block.java">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/C.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/PassOb.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#66#67#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/ErrorMsg.java">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/OrderOfConstruction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#115#116#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/BlockDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Test/Mother.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            <state relative-caret-position="170">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="20" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap4/FDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Test/Son.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="9" />
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <folding>
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Truck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Shapes3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -198,6 +235,27 @@
         <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/Block.java" />
         <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/PassOb.java" />
         <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/ErrorMsg.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/Recursion.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/StaticDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/SDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/StaticBlock.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/SDemo3.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/VarArgs.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Shapes3.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/TwoShape.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Test/Son.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/MainShape.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Test/Mother.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Test/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/TruckDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Truck.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/A.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/B.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/OrderOfConstruction.java" />
+        <option value="$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/C.java" />
       </list>
     </option>
   </component>
@@ -215,7 +273,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,31 +296,25 @@
               <item name="BeginnerGuide" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaBeginnerGuide" type="462c0819:PsiDirectoryNode" />
-              <item name="Cap4" type="462c0819:PsiDirectoryNode" />
+              <item name="Cap7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BeginnerGuide" type="b2602c69:ProjectViewProjectNode" />
               <item name="BeginnerGuide" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaBeginnerGuide" type="462c0819:PsiDirectoryNode" />
-              <item name="Cap5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BeginnerGuide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeginnerGuide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaBeginnerGuide" type="462c0819:PsiDirectoryNode" />
-              <item name="Cap6" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568813025725" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568895985453" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -277,65 +328,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PassOb">
-    <configuration name="BlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaBeginnerGuide.Cap6.BlockDemo" />
+  <component name="RunManager" selected="Application.OrderOfConstruction">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaBeginnerGuide.Test.Main" />
+      <module name="BeginnerGuide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaBeginnerGuide.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaBeginnerGuide.Cap7.MainShape" />
+      <module name="BeginnerGuide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaBeginnerGuide.Cap7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderOfConstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaBeginnerGuide.Cap7.OrderOfConstruction" />
+      <module name="BeginnerGuide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaBeginnerGuide.Cap7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shapes3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaBeginnerGuide.Cap7.Shapes3" />
+      <module name="BeginnerGuide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaBeginnerGuide.Cap7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaBeginnerGuide.Cap6.VarArgs" />
       <module name="BeginnerGuide" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.JavaBeginnerGuide.Cap6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CLDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaBeginnerGuide.Cap5.CLDemo" />
-      <module name="BeginnerGuide" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.JavaBeginnerGuide.Cap5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PassOb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaBeginnerGuide.Cap6.PassOb" />
-      <module name="BeginnerGuide" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.JavaBeginnerGuide.Cap6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShowBitsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaBeginnerGuide.Cap5.ShowBitsDemo" />
-      <module name="BeginnerGuide" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.JavaBeginnerGuide.Cap5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Substr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.JavaBeginnerGuide.Cap5.Substr" />
-      <module name="BeginnerGuide" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.JavaBeginnerGuide.Cap5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,19 +395,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Substr" />
-      <item itemvalue="Application.CLDemo" />
-      <item itemvalue="Application.ShowBitsDemo" />
-      <item itemvalue="Application.BlockDemo" />
-      <item itemvalue="Application.PassOb" />
+      <item itemvalue="Application.VarArgs" />
+      <item itemvalue="Application.MainShape" />
+      <item itemvalue="Application.Shapes3" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.OrderOfConstruction" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PassOb" />
-        <item itemvalue="Application.BlockDemo" />
-        <item itemvalue="Application.ShowBitsDemo" />
-        <item itemvalue="Application.CLDemo" />
-        <item itemvalue="Application.Substr" />
+        <item itemvalue="Application.OrderOfConstruction" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Shapes3" />
+        <item itemvalue="Application.MainShape" />
+        <item itemvalue="Application.VarArgs" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +427,7 @@
   <component name="ToolWindowManager">
     <frame x="-1928" y="-320" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -386,14 +437,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.25957447" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.30106384" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32978722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -442,6 +493,30 @@
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/SDemo3.java</url>
+          <line>4</line>
+          <properties class="com.JavaBeginnerGuide.Cap6.SDemo3" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Shapes3.java</url>
+          <line>3</line>
+          <properties class="com.JavaBeginnerGuide.Cap7.Shapes3" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/OrderOfConstruction.java</url>
+          <line>3</line>
+          <properties class="com.JavaBeginnerGuide.Cap7.OrderOfConstruction" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -471,13 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap4/ConsDEMO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -560,12 +628,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap5/ShowBits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -580,13 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/BlockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -607,7 +664,235 @@
     <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/ErrorMsg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/BlockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap4/ConsDEMO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/SDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/SDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/StaticBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/StaticDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap6/VarArgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/MainShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Test/TuckDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/TruckDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Truck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/Shapes3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/TwoShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Test/Mother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Test/Son.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#61#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#70#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#66#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBeginnerGuide/Cap7/OrderOfConstruction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
